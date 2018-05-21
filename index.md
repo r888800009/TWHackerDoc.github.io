@@ -16,12 +16,12 @@ toc: false
 <div class="col-md-4" markdown="1">
 * 何謂駭客文檔
     - [全台最大駭客交流討論區](https://www.facebook.com/groups/taiwan.whitehat/)
-    - 社區守則
-    - 駭客文檔宗旨
+    - [社區守則](台灣駭客文檔-社區守則.html)
+    - [駭客文檔宗旨](台灣駭客文檔-宗旨.html)
     - 文本分發許可證
 
 * 如何貢獻
-    - PR守則
+    - [PR守則](台灣駭客文檔-拉請求.html)
     - [格式手冊](台灣駭客文檔-格式手冊.html)
     - 貢獻資格
         - 原則上人人皆可貢獻文檔
